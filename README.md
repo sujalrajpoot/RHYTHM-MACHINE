@@ -9,6 +9,11 @@
 
 ---
 
+## Preview
+<p align="center">
+  <img src="Preview.png" alt="Preview" width="1000"/>
+</p>
+
 ## 🌟 What is Rhythm Machine?
 
 Rhythm Machine is an **interactive drum sequencer** that combines the power of AI with intuitive beat-making. Whether you're a musician looking for inspiration, a producer sketching out ideas, or someone who just loves rhythm, this tool transforms your creative vision into playable drum patterns instantly.
